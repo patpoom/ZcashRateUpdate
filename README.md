@@ -1,0 +1,2 @@
+# ZcashRateUpdate
+LineNotifyZcash
